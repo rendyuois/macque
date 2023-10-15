@@ -1,5 +1,5 @@
 #![allow(unused)]
 
-fn do_hello() {
+fn run() {
     println!("Nothing!")
 }
